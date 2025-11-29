@@ -1,6 +1,6 @@
 # Hey, I'm Brian 👋
 
-I'm a Computer Engineering Technology major! Currently looking for internships. Really only made this just in case.
+Currently majoring in Computer Engineering Technology! Currently looking for internships. Really only made this just in case someone feels like reading it.
 
 ## What I work with currently
 
