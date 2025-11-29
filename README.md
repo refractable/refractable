@@ -10,7 +10,7 @@ Currently interested in embedded systems, electronics, really anything electrica
 
 ## Projects
 
-- **[steam-backlog](https://github.com/refractable/steam-backlog)** - CLI tool to track and manage your Steam game library
+- **[backpile](https://github.com/refractable/backpile)** - CLI tool to track and manage your Steam game library
 
 ## Interested in connecting?
 
