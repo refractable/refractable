@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Brian 👋
 
-<!--
-**refractable/refractable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering Technology major! Currently looking for internships. Really only made this just in case.
 
-Here are some ideas to get you started:
+## What I work with currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Python` `Java` `C#` `C` `JavaScript`
+
+Currently interested in embedded systems, electronics, really anything electrical, and building CLI tools.
+
+## Projects
+
+- **[steam-backlog](https://github.com/refractable/steam-backlog)** - CLI tool to track and manage your Steam game library
+
+## Interested in connecting?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/brian-guerrero-9a87bb250)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:guerb01@purdue.edu)
