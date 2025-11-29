@@ -13,6 +13,4 @@ Currently interested in embedded systems, electronics, really anything electrica
 - **[backpile](https://github.com/refractable/backpile)** - CLI tool to track and manage your Steam game library
 
 ## Interested in connecting?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/brian-guerrero-9a87bb250)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:guerb01@purdue.edu)
