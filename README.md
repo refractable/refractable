@@ -1,17 +1,17 @@
-# Hey, I'm Brian 👋
+# hello, im brian
 
-Currently majoring in Computer Engineering Technology! Currently looking for internships. Really only made this just in case someone feels like reading it.
+currently majoring in computer engineering tech. made this just in case someone wants to read up about me.
 
-## What I work with currently
+## what i am using currently
 
-`Python` `Java` `C++` `C#` `C` `JavaScript` 
+`Python` `C++` `C#` `C`
 
-Currently interested in embedded systems, electronics, really anything electrical, and building CLI tools.
+currently a big fan of embedded systems. learning stm32 on my own time. working on CLI projects just because i like the vibe.
 
-## Projects
+## projects
 
-- **[backpile](https://github.com/refractable/backpile)** - CLI tool to track and manage your Steam game library
-- **[unranked](https://github.com/refractable/unranked)** - CLI college basketball simulator, current project I am working on.
+- **[backpile](https://github.com/refractable/backpile)** - tool to track and manage your steam game library with custom filtering and sorting.
+- **[unranked](https://github.com/refractable/unranked)** - cli college basketball sim utilizing notcurses. still in very early development.
 
-## Interested in connecting?
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:guerb01@purdue.edu)
+## if you're interested in contacting me
+i will be having a little website set up..
